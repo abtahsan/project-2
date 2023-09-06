@@ -287,6 +287,10 @@ ul a:hover {
     width: 80%;
     margin: 0 auto;
 }
+.play-color
+{
+    color: #FF42A5;
+}
 .play-content
 {
     display: flex;
